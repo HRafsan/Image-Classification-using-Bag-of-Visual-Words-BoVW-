@@ -1,4 +1,5 @@
 #Image Classification using Bag of Visual Words (BoVW)
+
 In this notebook, we will classify the images into five categories (aeroplane, backgrounds, car, horse, motorcycle, person) using Bag of Visual Word (BoVW) and Support Vector Machine (SVM).
 
 We will extract the SIFT descriptors from the images and construct a codebook. After that, we will encode the images to histogram features using codebook, and train the classifier using those features.

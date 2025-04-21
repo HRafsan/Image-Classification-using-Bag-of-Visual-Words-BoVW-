@@ -1,4 +1,4 @@
-###### Image Classification using Bag of Visual Words (BoVW)
+# Image Classification using Bag of Visual Words (BoVW)
 
 In this notebook, we will classify the images into five categories (aeroplane, backgrounds, car, horse, motorcycle, person) using Bag of Visual Word (BoVW) and Support Vector Machine (SVM).
 
